@@ -1,0 +1,14 @@
+Package: hubchev
+Type: Package
+Title: Package full of functions and learnr tutorials for myself and my students
+Version: 0.0.1
+Author: Who wrote it
+Maintainer: Stephan Huber <stephan.huber@hs-fresenius.de>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: CC BY 4.0
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
