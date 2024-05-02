@@ -1,0 +1,12 @@
+name: lr-filter
+title: lr-filter
+username: lr4un3-stephan-huber
+account: lr4un3-stephan-huber
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11828934
+bundleId: 8568356
+url: https://lr4un3-stephan-huber.shinyapps.io/lr-filter/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
