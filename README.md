@@ -19,7 +19,7 @@ library("hubchev")
 To check whether you have installed and loaded the package type that in the console: 
 
 ```{r}
-hihubchev
+hihubchev()
 ```
 
 
